@@ -15,3 +15,5 @@ This repo contains assignments given in week-7. The assignments are written in P
 ## Quick Links for Navigation
 
 [`Day 37 (Monday) - Assignment`](./monday/README.md)
+
+[`Day 38 (Tuesday) - Assignment`](./tuesday/README.md)
